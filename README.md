@@ -10,7 +10,7 @@ This is a fun side-project that I am currently working on. You can still submit 
 The Hardy-Weinberg Equilibrium is a concept in population genetics that states allele (genotype) frequencies will remain constant throughout generations. The formula for it is:
 
 ```
-p^2+2pq+q^2 =1
+p^2 + 2pq + q^2 = 1
 
 Values:
 p^2 = dominant homozygous frequency
