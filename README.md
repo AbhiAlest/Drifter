@@ -5,9 +5,9 @@ A mathematical simulation of genetic drift that expands on the Hardy-Weinberg pr
 This is a fun side-project that I am currently working on. You can still submit a pull request or highlight issues!
 
 ---
-<h2>Hardy-Weinberg principle</h2>
+<h2>Hardy-Weinberg Principle</h2>
 
-The Hardy-Weinberg Equilibrium is a concept in population genetics that states allele (genotype) frequencies will remain constant throughout generations. The formula for it is:
+The [Hardy-Weinberg Equilibrium] (https://en.wikipedia.org/wiki/Hardy%E2%80%93Weinberg_principle) is a concept in population genetics that states allele (genotype) frequencies will remain constant throughout generations. The formula for it is:
 
 ```
 p^2 + 2pq + q^2 = 1
@@ -18,7 +18,7 @@ p^2 = dominant homozygous frequency
 q^2 = recessive homozygous frequency
 ```
 
-Assumptions of Hardy-Weinberg Equilibrium:
+[Assumptions](https://www.khanacademy.org/science/ap-biology/natural-selection/hardy-weinberg-equilibrium/a/hardy-weinberg-mechanisms-of-evolution#:~:text=When%20a%20population%20is%20in%20Hardy%2DWeinberg%20equilibrium%20for%20a,population%20size%2C%20and%20no%20selection.) of Hardy-Weinberg Equilibrium:
 
 1. No mutations (alterations of nucleic acid)
 2. Panmixia (random mating: all individuals are potential partners)
