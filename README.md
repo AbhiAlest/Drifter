@@ -4,6 +4,8 @@
 A mathematical simulation of genetic drift that expands on the Hardy-Weinberg principle.
 This is a fun side-project that I am currently working on. You can still submit a pull request or highlight issues!
 
+Updated model to include genetic recombination.
+
 ---
 <h2>Hardy-Weinberg Principle</h2>
 
