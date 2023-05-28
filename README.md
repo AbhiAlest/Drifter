@@ -15,9 +15,9 @@ The [Hardy-Weinberg Equilibrium](https://en.wikipedia.org/wiki/Hardy%E2%80%93Wei
 p^2 + 2pq + q^2 = 1
 
 Values:
-p^2 = dominant homozygous frequency
-2pq = heterozygous frequency
-q^2 = recessive homozygous frequency
+p^2 = dominant homozygous (AA) frequency
+2pq = heterozygous (Aa) frequency
+q^2 = recessive homozygous (aa) frequency
 ```
 
 [Assumptions](https://www.khanacademy.org/science/ap-biology/natural-selection/hardy-weinberg-equilibrium/a/hardy-weinberg-mechanisms-of-evolution#:~:text=When%20a%20population%20is%20in%20Hardy%2DWeinberg%20equilibrium%20for%20a,population%20size%2C%20and%20no%20selection.) of Hardy-Weinberg Equilibrium:
