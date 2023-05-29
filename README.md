@@ -31,3 +31,4 @@ q^2 = recessive homozygous (aa) frequency
 Drifter aims to simulate genetic drift in a large variety of genes without the preassumptions of the Hardy-Weinberg equilibrium principle. 
 
 ---
+There is an environmental genetic drift model that is much more complex. Adding genetic recombination to said model.
