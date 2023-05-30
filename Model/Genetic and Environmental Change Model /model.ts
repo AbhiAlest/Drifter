@@ -1,6 +1,6 @@
 // Advanced Genetic simulation. Currently trying to write documentation for it. Any changes to genetic recomnination techniques are welcome. Just submit a pull request!
 
-import Chart from 'chart.js';
+import Chart from 'chart.js'; //for simulation
 
 // Define the genetic representation
 type Chromosome = number[];
